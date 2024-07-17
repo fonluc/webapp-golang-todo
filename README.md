@@ -1,5 +1,7 @@
 ### Resumo do que foi feito no projeto até agora (API SEM BANCO DE DADOS):
 
+![removal ai _fba96b70-94d3-4dfa-8a5e-580e3827da8d-goher2-1-1](https://github.com/user-attachments/assets/d755c298-95ea-4433-8ecd-93fb3e3da7f9)
+
 Próximos passos: Banco de Dados, Interfaces de usuário, Design, consumo da API pelo React, Configuração e Deploy.
 
 Este projeto proporcionou a experiência de desenvolver um sistema básico de gerenciamento de tarefas usando Go com Fiber, explorando conceitos fundamentais como rotas HTTP, manipulação de dados estruturados, e integração de ferramentas de desenvolvimento como o Postman para testes de API.
