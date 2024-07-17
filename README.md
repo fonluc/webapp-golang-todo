@@ -1,6 +1,6 @@
 ### Resumo do que foi feito no projeto até agora (API SEM BANCO DE DADOS):
 
-![removal ai _fba96b70-94d3-4dfa-8a5e-580e3827da8d-goher2-1-1](https://github.com/user-attachments/assets/d755c298-95ea-4433-8ecd-93fb3e3da7f9)
+![capa](https://github.com/user-attachments/assets/f90e2ab1-bd65-48bb-9cd1-e89546a0515d)
 
 Próximos passos: Banco de Dados, Interfaces de usuário, Design, consumo da API pelo React, Configuração e Deploy.
 
